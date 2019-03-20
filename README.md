@@ -1,4 +1,4 @@
-# egg-timer-app
+# Egg Timer App
 Android app that acts like a simple stopwatch.
 
 The egg timer app loves eggs! This app for the eggs that fall asleep while studying! 
